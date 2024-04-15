@@ -317,3 +317,4 @@ Dentro del proyecto de Refactorización de Compras en Línea, varios puntos se v
 
 Hasta el momento, el proyecto ha aplicado el framework SPACE principalmente a través de la mejora de la calidad del código y la adopción de prácticas de desarrollo centradas en el bienestar del equipo y la eficiencia del proceso. Se han introducido pruebas unitarias, se ha realizado refactorización continua y se ha integrado la herramienta SonarQube para analizar y mejorar la calidad del código. Estas acciones han contribuido a crear un entorno de trabajo más satisfactorio, mejorar el rendimiento del equipo y promover una comunicación y colaboración más efectivas.
 
+
