@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.isolutions4u.onlineshopping.test.CategoryTest
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s - in com.isolutions4u.onlineshopping.test.CategoryTest
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 s - in com.isolutions4u.onlineshopping.test.CategoryTest
