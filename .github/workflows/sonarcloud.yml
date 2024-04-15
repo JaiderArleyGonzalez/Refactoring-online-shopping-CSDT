@@ -29,10 +29,6 @@
 name: SonarCloud analysis
 
 on:
-  push:
-    branches: [ "code-smells" ]
-  pull_request:
-    branches: [ "Upgrade-spring-boot" ]
   workflow_dispatch:
 
 permissions:
